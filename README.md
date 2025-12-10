@@ -1,8 +1,8 @@
 # @vdegenne/md2html
 
-Eerily simple and easy goto Markdown to HTML modern es module solution.
+Eerily simple and easy goto Markdown to HTML modern es module solution.  
 Fork and redesign of MiniGFM.  
-Use at your own risks.
+Use at your own risks.  
 (types included)
 
 ## Installation
